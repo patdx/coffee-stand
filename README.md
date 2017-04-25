@@ -1,6 +1,6 @@
 # Pourover Coffee Stand
 
-!(overview.jpg)
+![](overview.jpg)
 
 This device holds a pourover coffee dripper. I like making coffee, and I wanted to hold my coffee dripper in a more convenient way.
 
@@ -10,13 +10,13 @@ The original version was square-shaped. But it was very large and ugly. I optimi
 
 I designed the stand in SolidWorks! It looks like this:
 
-!(laser-pattern-preview.png)
+![](laser-pattern-preview.png)
 
 The file [laser-pattern-ponoko.svg](laser-pattern-ponoko.svg) was submitted to the laser-cutting company.
 
 ## Result
 
-!(in-use.jpg)
+![](in-use.jpg)
 
 ## Materials
 
